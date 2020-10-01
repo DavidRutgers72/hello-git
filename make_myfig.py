@@ -6,4 +6,6 @@ y= x**2
 
 plt.figure()
 plt.plot(x, y)
+plt.xlabel('hours')
+ply.ylabel('widgets')
 plt.savefig('myfig.png')
